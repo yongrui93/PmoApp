@@ -38,3 +38,4 @@ c:\users\yr\documents\visual studio 2015\Projects\PmoWebApp\PmoWebApp\bin\System
 c:\users\yr\documents\visual studio 2015\Projects\PmoWebApp\PmoWebApp\bin\System.Web.Http.WebHost.xml
 c:\users\yr\documents\visual studio 2015\Projects\PmoWebApp\PmoWebApp\obj\Release\PmoWebApp.dll
 c:\users\yr\documents\visual studio 2015\Projects\PmoWebApp\PmoWebApp\obj\Release\PmoWebApp.pdb
+C:\Users\YR\Documents\Visual Studio 2015\Projects\PmoWebApp\PmoWebApp\obj\Release\PmoWebApp.csprojResolveAssemblyReference.cache

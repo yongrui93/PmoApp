@@ -1,2 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters />
+<parameters>
+  <parameter name="PMOdbConnectionString2-Web.config Connection String" description="PMOdbConnectionString2 Connection String used in web.config by the application to access the database." defaultValue="Data Source=pmoserver.database.windows.net;Initial Catalog=PMOdb;User ID=yongrui;Password=Mushroom4" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\YR\\Documents\\Visual\ Studio\ 2015\\Projects\\PmoWebApp\\PmoWebApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PMOdbConnectionString2']/@connectionString" />
+  </parameter>
+</parameters>

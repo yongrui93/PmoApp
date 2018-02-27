@@ -10,7 +10,7 @@
                 <p class="category">Complete your profile</p>
             </div>
             <div class="card-content">
-                <form>
+                <!--<form>-->
                     <div class="row">
                         <div class="col-md-5">
                             <div class="form-group label-floating">
@@ -86,7 +86,7 @@
                     </div>
                     <button type="submit" class="btn btn-primary pull-right">Update Profile</button>
                     <div class="clearfix"></div>
-                </form>
+                <!--</form>-->
             </div>
         </div>
     </div>

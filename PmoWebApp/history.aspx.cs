@@ -7,10 +7,13 @@ using System.Web.UI.WebControls;
 
 namespace PmoWebApp
 {
-    public partial class Dashboard : System.Web.UI.Page
+    public partial class history : System.Web.UI.Page
     {
+      
         protected void Page_Load(object sender, EventArgs e)
         {
+
         }
+       
     }
 }

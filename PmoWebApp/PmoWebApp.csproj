@@ -126,6 +126,7 @@
     <Content Include="Content\assets\img\cover.jpeg" />
     <Content Include="Content\assets\img\Crest_of_the_Prime_Minister_of_Singapore.png" />
     <Content Include="Content\assets\img\faces\marc.jpg" />
+    <Content Include="Content\assets\img\favicon.ico" />
     <Content Include="Content\assets\img\favicon.png" />
     <Content Include="Content\assets\img\mask.png" />
     <Content Include="Content\assets\img\new_logo.png" />
@@ -163,6 +164,7 @@
     <Content Include="login.aspx" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
+    <Content Include="history.aspx" />
     <Content Include="tables.aspx" />
     <Content Include="users.aspx" />
     <Content Include="Web.config">
@@ -202,6 +204,13 @@
     </Compile>
     <Compile Include="Home.Master.designer.cs">
       <DependentUpon>Home.Master</DependentUpon>
+    </Compile>
+    <Compile Include="history.aspx.cs">
+      <DependentUpon>history.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="history.aspx.designer.cs">
+      <DependentUpon>history.aspx</DependentUpon>
     </Compile>
     <Compile Include="tables.aspx.cs">
       <DependentUpon>tables.aspx</DependentUpon>
@@ -292,6 +301,8 @@
     <Content Include="Content\assets\sass\md\_typography.scss" />
     <Content Include="Content\assets\sass\md\_variables.scss" />
     <Content Include="Login.Master" />
+    <None Include="Properties\PublishProfiles\pmoapp - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\pmoapp - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\PmoWebApp - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\PmoWebApp - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
